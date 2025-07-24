@@ -8,7 +8,7 @@
 
 ---
 
-## Team Members
+## Argentina-México-Brasil Astrophysics Research (AMBAR) members:
 - Jessica Chaves
 - Jorge Gomez
 - Araceli Garcia Flores
