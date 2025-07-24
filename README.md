@@ -35,6 +35,6 @@ In this final stage, we kept the internal WSP and added the imaginary part of th
 ---
 
 ## Results
-![Preliminar](/plots/plots/test.png)
+![Preliminar](/plots/test.png)
 
 ## Repository Structure
